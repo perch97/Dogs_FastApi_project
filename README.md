@@ -21,21 +21,21 @@ Dogs_FastApi_project
 - [Description of the project]([https://vk.com/djangochannel](https://drive.google.com/file/d/1zCXM409iBKPeB3zaGbTbWzwnwUkoW9ZQ/view))
 
 
-##### 2) To clone repo
+##### 1) To clone repo
 
     git clone ссылка_сгенерированная_в_вашем_репозитории
 
-##### 3) Create virtual environment
+##### 2) Create virtual environment
 
     python -m venv venv
     
 
     
-##### 9) To launch the server
+##### 3) To launch the server
 
     uvicorn main:app --reload
     
-##### 10) To open documentation
+##### 4) To open documentation
 
     http://127.0.0.1:8000/docs
   
